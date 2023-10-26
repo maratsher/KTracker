@@ -1,0 +1,22 @@
+/data/ir/00 Простой заход.mp4
+/data/ir/01 Порыв ветра.mp4
+/data/ir/02 потеря цели на вираже.mp4
+/data/ir/03_Потери_цели_на_вираже_и_на_подходе.mp4
+/data/ir/04 двойная цель.mp4
+/data/ir/05 Разделяющаяся цель.mp4
+/data/ir/06 тройная цель .mp4
+/data/ir/07 Тройная разделяющаяся цель.mp4
+/data/ir/08_Появление_более_контрастной_цели.mp4
+/data/ir/09 Временное перекрыте цели.mp4
+/data/ir/10 Зенитное противодействие.mp4
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/.name
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/pyatachok.iml
+/.idea/vcs.xml
+*.mp4
+/env
+/__pycache__
